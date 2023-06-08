@@ -1,0 +1,1 @@
+From the LinkedIn Learning course: [Django Essential Training](https://www.linkedin.com/learning/django-essential-training)
